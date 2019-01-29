@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "esnext",
+    "outDir": "dist",
+    "sourceMap": true,
+    "jsx": "react"
+  },
+  "typeRoots": [
+    "./src/custom_typings", "node_modules/@types"
+  ],
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

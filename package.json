@@ -1,0 +1,21 @@
+{
+  "name": "ts-async-transformers-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Slawaq/ts-async-transformers-example.git",
+  "author": "Vyacheslav Pytel <dereckvk@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">= 8.10"
+  },
+  "dependencies": {
+    "react": "^16.7.0",
+    "typescript": "^3.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.19",
+    "@types/react": "^16.7.22",
+    "postcss": "^7.0.14"
+  }
+}
